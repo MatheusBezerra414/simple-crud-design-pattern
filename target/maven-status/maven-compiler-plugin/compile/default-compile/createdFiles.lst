@@ -1,0 +1,6 @@
+com/jiujitsu/manager/ManagerApplication.class
+com/jiujitsu/manager/service/AlunoService.class
+com/jiujitsu/manager/controller/AlunoController.class
+com/jiujitsu/manager/model/Aluno.class
+com/jiujitsu/manager/repository/AlunoRepository.class
+com/jiujitsu/manager/service/impl/AlunoServiceImpl.class
